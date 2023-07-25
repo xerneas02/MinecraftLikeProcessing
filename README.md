@@ -14,3 +14,4 @@ The control are :
 * left clic to destroy block  
 * scroll wheel to change block  
 * m to change mode between walk mode and specator mode
+* escape to close the game
