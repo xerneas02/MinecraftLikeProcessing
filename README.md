@@ -95,7 +95,7 @@ processing-minecraft/
 
 ## Customization
 
-* **Textures**: Replace or add your own textures by editing `data/block.png`.
+* **Textures**: Replace or add your own textures by editing `texture/block.png`.
 * **Settings**: Adjust chunk size and generation parameters in `Chunk.pde`.
 * **Possible Extensions**:
 
