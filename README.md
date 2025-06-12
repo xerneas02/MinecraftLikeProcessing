@@ -38,7 +38,7 @@ A small **Minecraft-like** project developed in **Processing**, featuring a 3D v
 
 ```
 processing-minecraft/
-├── data/
+├── texture/
 │   └── block.png       # Spritesheet for block textures
 ├── Player.pde          # Player camera control and rendering
 ├── Voxel.pde           # Voxel class (type, position, draw)
