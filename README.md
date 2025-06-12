@@ -108,7 +108,7 @@ processing-minecraft/
 ## Contact
 
 For questions or further discussion, you can reach me on 
-  - Discord: **xerneas02**
+  - discord: **xerneas02**
   - email : **xerneas1702@gmail.com**
 
 ## License
