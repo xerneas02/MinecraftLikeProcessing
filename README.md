@@ -105,6 +105,12 @@ processing-minecraft/
 
 ---
 
+## Contact
+
+For questions or further discussion, you can reach me on 
+  - Discord: **xerneas02**
+  - email : **xerneas1702@gmail.com**
+
 ## License
 
 This project is released under the MIT License. Feel free to modify and redistribute.
